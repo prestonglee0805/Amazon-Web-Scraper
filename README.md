@@ -31,6 +31,7 @@ Product Name: Apple iPhone 13
 Price: $799
 Rating: 4.5
 Availability: In Stock
+URL: ...
 ```
 
 ## Notes
